@@ -1,0 +1,3 @@
+class CloudMessConfig {
+  static final String Authorization = 'key=AAAAUdGRgjg:APA91bFLaXs40z4F-BWZIBHtEJoD1g9RLVc6KG9zQPztXwvvWRYRzQFEuHmg4yd4hoghA6Vhk7UqBia3pSfqrMYGowgNE_TxowpjPvKfxA7EZS2apl7Jm8B7ltGQRaHXNaYmiS_rH5On';
+}
